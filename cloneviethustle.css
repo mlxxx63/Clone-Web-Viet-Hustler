@@ -1,0 +1,50 @@
+#header{
+    display: block;
+}
+
+.mainheader{
+    display: block;
+    text-align: center;
+}
+
+.headerright{
+    display: block;
+    float: right;
+}
+
+.headerleft{
+    display: block;
+    float: left;
+}
+
+.searchbutton{
+    display: block;
+    float: right;
+    content-color;
+    padding-right: 15px;
+    background-color: aliceblue;
+}
+
+.navchinh{
+    /* display: block; */   
+    text-align: center;
+}
+
+.home1{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.leftcolumn, .rightcolumn{
+    flex: 1;
+}
+
+.pic1{
+    max-width: 100%;
+    height: auto;
+}
+
+.headcolumn{
+    font-size: 16px;
+}
